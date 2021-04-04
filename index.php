@@ -10,5 +10,11 @@
     <script>
     alert("Testando Função de tratamento")
     </script>
+    <script>
+    function teste()
+    {
+        alert("Testando nova função 2")
+    }
+    </script>
 </body>
 </html>
