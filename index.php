@@ -16,5 +16,11 @@
         alert("Testando nova função 2")
     }
     </script>
+    <script>
+    function teste3()
+    {
+        alert("Testando nova função 3")
+    }
+    </script>
 </body>
 </html>
